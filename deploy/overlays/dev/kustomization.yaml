@@ -11,5 +11,5 @@ replicas:
 - count: 1
   name: realtime
 images:
-- name: gbaeke/flux-rt
+- name: jovanstanoevski/flux-rt
   newTag: sha-11e921f

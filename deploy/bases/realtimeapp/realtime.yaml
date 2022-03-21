@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: realtime
-        image: gbaeke/flux-rt
+        image: jovanstanoevski/flux-rt
         livenessProbe:
           httpGet:
             path: /index.html
