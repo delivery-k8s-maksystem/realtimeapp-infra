@@ -12,4 +12,4 @@ replicas:
   name: realtime
 images:
 - name: jovanstanoevski/flux-rt
-  newTag: sha-11e921f
+  newTag: sha-c70560a
